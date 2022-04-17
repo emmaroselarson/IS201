@@ -1,0 +1,10 @@
+/* Emma Larson 4/16/2022 */
+
+.resizable{
+    resize: both;
+    overflow: auto;
+}
+.footer{
+    font-family:'Courier New', Courier, monospace;
+
+}
